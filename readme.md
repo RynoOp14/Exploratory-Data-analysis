@@ -14,9 +14,9 @@ Netflix Movies and TV Shows Dataset (netflix_titles.csv) from Kaggle.
 6. Standardized text values in type, country, rating using str.strip(), str.title(), and str.upper().
 
  Tools Used:
-- Python
-- Pandas
-- Jupyter Notebook 
+ 1)Python
+ 2)Pandas
+ 3)Jupyter Notebook 
 
 Final Output:
 - Cleaned dataset: cleaned_netflix_titles.csv
